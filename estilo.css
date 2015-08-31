@@ -1,0 +1,34 @@
+body{
+	font-family: tahoma;
+}
+.cabecalho{
+	font-size: 15px;
+	text-decoration: underline;
+	font-style: italic;
+	text-align: right;
+}
+h1{
+	font-size: 50px;
+	color: white;
+	background-color: green;
+	font-weight: body; 
+}
+h2{
+	font-size: 35px;
+	color: white;
+	background-color: green;
+	font-style: italic;
+}
+p{
+	font-size: 20px;
+	text-align: justify;
+}
+.madruga{
+	color: blue;
+}
+.maria{
+	color: green;
+}
+.carlos{
+	color: red;
+}
