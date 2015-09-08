@@ -1,5 +1,9 @@
 body{
 	font-family: tahoma;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 .cabecalho{
 	font-size: 15px;
@@ -31,4 +35,22 @@ p{
 }
 .carlos{
 	color: red;
+}
+#center{
+	text-align: center;
+}
+.bordaquico{
+border-style: double;
+border-color: red;
+border-width: 10px;
+}
+.bordamadruga{
+border-style: double;
+border-color: blue;
+border-width: 10px;
+}
+.bordachiquinha{
+border-style: double;
+border-color: green;
+border-width: 10px;
 }
